@@ -1,0 +1,46 @@
+{
+  "captions": [
+    {"text": "Living my best life! ✨ #Blessed", "category": "Inspiration"},
+    {"text": "Wanderlust and city dust. 🌆", "category": "Travel"},
+    {"text": "Food is my love language. 🍕", "category": "Food"},
+    {"text": "Coffee first, adulting second. ☕", "category": "Inspiration"},
+    {"text": "Sunshine and good vibes. 🌞", "category": "Inspiration"},
+    {"text": "Paris is always a good idea. 🇫🇷", "category": "Travel"},
+    {"text": "Sweet tooth problems. 🍩", "category": "Food"},
+    {"text": "You had me at pizza. 🍕", "category": "Food"}
+  ],
+  "bios": [
+    {"text": "Digital creator | Photography enthusiast | Coffee lover", "category": "Instagram"},
+    {"text": "Building the future one line of code at a time", "category": "Twitter"},
+    {"text": "Marketing professional | Brand strategist | Storyteller", "category": "LinkedIn"},
+    {"text": "Just a girl with big dreams and even bigger hair", "category": "Creative"},
+    {"text": "Turning caffeine into code since 2015", "category": "Twitter"},
+    {"text": "Living life one adventure at a time", "category": "Instagram"}
+  ],
+  "fonts": [
+    {"name": "Bold", "style": "font-weight: bold"},
+    {"name": "Italic", "style": "font-style: italic"},
+    {"name": "Underline", "style": "text-decoration: underline"},
+    {"name": "Strikethrough", "style": "text-decoration: line-through"},
+    {"name": "Small Caps", "style": "font-variant: small-caps"},
+    {"name": "Shadow", "style": "text-shadow: 2px 2px 4px rgba(0,0,0,0.3)"},
+    {"name": "Colorful", "style": "background: linear-gradient(to right, #ff8a00, #e52e71); -webkit-background-clip: text; -webkit-text-fill-color: transparent"}
+  ],
+  "hashtags": [
+    {"text": "#photography", "category": "Photography"},
+    {"text": "#portrait", "category": "Photography"},
+    {"text": "#fashion", "category": "Fashion"},
+    {"text": "#ootd", "category": "Fashion"},
+    {"text": "#foodie", "category": "Food"},
+    {"text": "#instafood", "category": "Food"},
+    {"text": "#travel", "category": "Travel"},
+    {"text": "#wanderlust", "category": "Travel"}
+  ],
+  "wishes": [
+    {"text": "Happy Birthday! Wishing you a day filled with love and laughter!", "category": "Birthday"},
+    {"text": "Congratulations on your achievement! Well deserved!", "category": "Congratulations"},
+    {"text": "Happy Anniversary! Many more years of love and happiness!", "category": "Anniversary"},
+    {"text": "Wishing you a joyful Diwali and a prosperous New Year!", "category": "Festival"},
+    {"text": "Happy New Year! May this year bring you success and happiness!", "category": "Festival"}
+  ]
+}
